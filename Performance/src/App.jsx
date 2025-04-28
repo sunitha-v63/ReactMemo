@@ -15,6 +15,7 @@ import Task12 from './Components/Task12'
 function App() {
   return (
     <div>
+      <h6>Day25</h6>
       <Task1/>
       <Task2/>
       <Task3/>
